@@ -28,5 +28,3 @@ This project focuses on developing a machine learning model to classify film rev
 
 **Conclusion:**
 The project successfully demonstrates the application of machine learning in sentiment analysis of film reviews. The CNN model showed the highest accuracy, indicating its potential for complex text classification tasks. This project highlights the importance of selecting the appropriate algorithm and tools for achieving optimal results in natural language processing and sentiment analysis.
-
-**Keywords:** Machine Learning, Sentiment Analysis, Natural Language Processing, IMDB Dataset, Logistic Regression, Random Forest, Decision Tree, Convolutional Neural Networks, Keras, Scikit-learn, Python, Visual Studio Code.
