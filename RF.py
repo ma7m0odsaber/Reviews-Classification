@@ -1,19 +1,3 @@
-"""from keras.datasets import imdb
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
-
-(x_train,x_test),(y_train,y_test)= imdb.load_data(num_words=1000)
-
-#(x_train,x_test),(y_train,y_test) = train_test_split(data.data,data.target,test_size=0.2)
-
-clf = RandomForestClassifier()
-
-clf.fit(x_train,y_train)
-
-accuracy = clf.score(x_test,y_test)
-
-print("Accuracy :",accuracy)
-"""
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import accuracy_score
